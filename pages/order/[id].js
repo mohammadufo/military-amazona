@@ -3,7 +3,7 @@ import dynamic from "next/dynamic";
 import Layout from "../../components/Layout";
 import NextLink from "next/link";
 import Image from "next/image";
-import { Store } from "../../utils/store";
+import { Store } from "../../utils/Store";
 import {
   Grid,
   TableContainer,

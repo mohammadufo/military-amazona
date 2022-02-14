@@ -20,7 +20,7 @@ import {
   List,
   ListItem,
 } from "@material-ui/core";
-import { Store } from "../utils/store";
+import { Store } from "../utils/Store";
 import axios from "axios";
 import { useRouter } from "next/router";
 

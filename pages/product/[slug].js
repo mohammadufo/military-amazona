@@ -15,7 +15,7 @@ import Image from "next/image";
 import db from "./../../utils/db";
 import Product from "./../../models/Product";
 import axios from "axios";
-import { Store } from "../../utils/store";
+import { Store } from "../../utils/Store";
 import { useRouter } from "next/router";
 
 function ProductScreen(props) {

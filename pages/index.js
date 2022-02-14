@@ -13,7 +13,7 @@ import Layout from "./../components/Layout";
 import db from "./../utils/db";
 import Product from "./../models/Product";
 import { useContext } from "react";
-import { Store } from "../utils/store";
+import { Store } from "../utils/Store";
 import axios from "axios";
 import { useRouter } from "next/router";
 

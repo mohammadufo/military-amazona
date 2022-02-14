@@ -19,7 +19,7 @@ import {
   ListItem,
   CircularProgress,
 } from "@material-ui/core";
-import { Store } from "../utils/store";
+import { Store } from "../utils/Store";
 import useStyles from "../utils/styles";
 import CheckoutWizard from "../components/CheckoutWizard";
 import { useRouter } from "next/router";

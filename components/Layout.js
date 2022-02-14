@@ -17,7 +17,7 @@ import Head from "next/head";
 import React, { useContext, useState } from "react";
 import useStyles from "../utils/styles";
 import NextLink from "next/link";
-import { Store } from "../utils/store";
+import { Store } from "../utils/Store";
 import Cookies from "js-cookie";
 import { useRouter } from "next/router";
 
